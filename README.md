@@ -11,16 +11,8 @@ Cloud Hosting	AWS Amplify (Frontend) + EC2 (Backend)
 Terraform Modules	GitHub API Integration
 
 # Step 1: Frontend (Next.js) #
-├── pages/
-│   ├── index.js          # Homepage (Search + 3 Tabs)
-│   ├── aws.js            # AWS Modules Section
-│   ├── azure.js          # Azure Modules Section
-│   ├── gcp.js            # GCP Modules Section
-│   └── subscribe.js      # User Subscription Form
-└── components/
-    ├── SearchBar.js      # Global Search
-    ├── ModuleCard.js     # Reusable TF Module Card
-    └── NavTabs.js        # AWS/Azure/GCP Tabs
+![Uploading image.png…]()
+
 
 # 1.2 Key Features
 Search Bar (Algolia Integration)
