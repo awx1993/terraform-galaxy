@@ -11,7 +11,8 @@ Cloud Hosting	AWS Amplify (Frontend) + EC2 (Backend)
 Terraform Modules	GitHub API Integration
 
 # Step 1: Frontend (Next.js) #
-![Uploading image.png…]()
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/45faae7a-71b2-4b8a-b13c-c445a313df7d" />
+
 
 
 # 1.2 Key Features
