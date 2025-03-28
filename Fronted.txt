@@ -1,0 +1,7 @@
+Index Terraform Modules
+Use Algolia’s Terraform Module Scraper. https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/
+
+Integrate with Frontend
+
+import algoliasearch from 'algoliasearch';
+const algoliaClient = algoliasearch('APP_ID', 'API_KEY');

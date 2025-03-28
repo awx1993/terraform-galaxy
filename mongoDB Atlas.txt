@@ -1,0 +1,5 @@
+Set Up MongoDB Atlas
+Create a free-tier cluster in AWS MongoDB Atlas. https://www.mongodb.com/atlas/database
+Whitelist your IP and get the connection string:
+
+mongodb+srv://<user>:<pass>@cluster0.mongodb.net/terraform-galaxy
